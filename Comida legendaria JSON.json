@@ -1441,7 +1441,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8027896525819894,
+        "zoomFactor": 1.2771578358760678,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1492,13 +1492,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 71,
+          "height": 52,
           "keepRatio": true,
           "layer": "",
           "name": "EtiquetaMute",
           "persistentUuid": "45d0d8e5-2b6d-43b5-95cb-a07c2a40c97d",
-          "width": 126,
-          "x": -14,
+          "width": 107,
+          "x": -2,
           "y": 247,
           "zOrder": 301,
           "numberProperties": [],
@@ -1639,7 +1639,7 @@
           "string": "MUTE",
           "font": "Kenney Pixel.ttf",
           "textAlignment": "center",
-          "characterSize": 9,
+          "characterSize": 20,
           "color": {
             "b": 255,
             "g": 255,
@@ -1663,7 +1663,7 @@
             "font": "Kenney Pixel.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "center",
-            "characterSize": 9,
+            "characterSize": 20,
             "lineHeight": 0,
             "color": "255;255;255"
           }
