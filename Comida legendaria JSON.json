@@ -1382,7 +1382,7 @@
       {
         "file": "assets/Default-panel (8).png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Default-panel (8).png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "Default-panel (8).png",
         "smoothed": false,
         "userAdded": true,
@@ -1394,7 +1394,7 @@
       {
         "file": "assets/Double-Chevron-Arrow-Right.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Double-Chevron-Arrow-Right.png\",\"extension\":\".png\"}",
         "name": "Double-Chevron-Arrow-Right.png",
         "smoothed": false,
         "userAdded": false,
@@ -1465,8 +1465,8 @@
           "name": "NewVideo",
           "persistentUuid": "936875f2-5a9c-48cb-aec6-572318c88805",
           "width": 485,
-          "x": -5,
-          "y": 3,
+          "x": 0,
+          "y": 1,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1481,8 +1481,8 @@
           "name": "BotonPixel",
           "persistentUuid": "3d9f2f8b-fcf5-4e69-af3a-66c8a94f436b",
           "width": 92,
-          "x": 10,
-          "y": 232,
+          "x": 5,
+          "y": 233,
           "zOrder": 300,
           "numberProperties": [],
           "stringProperties": [],
@@ -1491,14 +1491,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 28,
+          "depth": 1,
+          "height": 71,
           "keepRatio": true,
           "layer": "",
           "name": "EtiquetaMute",
           "persistentUuid": "45d0d8e5-2b6d-43b5-95cb-a07c2a40c97d",
-          "width": 92,
-          "x": 5,
-          "y": 244,
+          "width": 126,
+          "x": -14,
+          "y": 247,
           "zOrder": 301,
           "numberProperties": [],
           "stringProperties": [],
@@ -1703,11 +1704,12 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Double-Chevron-Arrow-Right",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
