@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 284,
+    "build": 282,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -1958,6 +1958,526 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Development Essentials/4×4 Pixels/0e0a38852d04abd3e49e165a9cd552e50670e3daa525e3ab43ccba05219c74d8_pixel-black.png",
           "name": "pixel-black.png"
         }
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/idle/idle_bruja_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/idle/idle_bruja_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/walk run/walkRun_bruja_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/walk run/walkRun_bruja_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/walk run/walkRun_bruja_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/walk run/walkRun_bruja_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/walk run/walkRun_bruja_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/walk run/walkRun_bruja_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/walk run/walkRun_bruja_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/walk run/walkRun_bruja_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/walk run/walkRun_bruja_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/walk run/walkRun_bruja_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/JUMP/jump_bruja7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/JUMP/jump_bruja7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/HURT/hurt_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/HURT/hurt_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/HURT/hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/HURT/hurt_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/HURT/hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/HURT/hurt_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/HURT/hurt_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/HURT/hurt_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/HURT/hurt_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/HURT/hurt_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/death/death_bruja_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/death/death_bruja_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (1).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (1).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (2).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (2).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (3).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (3).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (5).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (5).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (5)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (5)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (6).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (6).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (7).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (7).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (7).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (8).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (8).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (8).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (9).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (9).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (9).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (10).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (10).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (10).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (11).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (11).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (11).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (12).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (12).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (12).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (13).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (13).png\",\"extension\":\".png\"}",
+        "name": "assets/bola de fuego/Proyectil Mágico y Explosión Pixelada (13).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision personaje6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision personaje6",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3606,7 +4126,6 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -4269,7 +4788,6 @@
       "mangledName": "manual",
       "name": "manual",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -15644,7 +16162,6 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -17518,6 +18035,2189 @@
                 "color": "255;255;255",
                 "shadowQuality": "medium",
                 "shadowRenderingMode": "fittedToCameraView",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "nivel_323",
+      "name": "nivel 3",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.4583333333333333,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "8fa63637-aefb-4cb4-8420-7932dd4e5a67",
+          "width": 0,
+          "x": 152,
+          "y": 63,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "vieja_bruja",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/idle/idle_bruja_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walk bruja",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/walk run/walkRun_bruja_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/walk run/walkRun_bruja_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/walk run/walkRun_bruja_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/walk run/walkRun_bruja_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/walk run/walkRun_bruja_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump bruja",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/JUMP/jump_bruja7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ataque 1 bruja",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/ATAQUE 1 BRUJA/ataque1_Bruja7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hurt bruja",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/HURT/hurt_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/HURT/hurt_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/HURT/hurt_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/HURT/hurt_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/HURT/hurt_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "death bruja",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bruja/death/death_bruja_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bola_del_ataque_2_de_bruja",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "flotando bola",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flotando bola6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "colision a personaje",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colision personaje6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 19
+                          },
+                          {
+                            "x": 57,
+                            "y": 53
+                          },
+                          {
+                            "x": 2,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "vieja_bruja"
+          },
+          {
+            "objectName": "bola_del_ataque_2_de_bruja"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
                 "top": "Z+"
               },
               "booleanParameters": {
