@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 281,
+    "build": 284,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -2001,9 +2001,9 @@
           "PercentDamageReduction": 0
         },
         {
-          "ignoreDefaultControls": true,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -3434,10 +3434,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -3606,6 +3606,7 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -4268,6 +4269,7 @@
       "mangledName": "manual",
       "name": "manual",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -4305,23 +4307,6 @@
           "x": 0,
           "y": 0,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 43,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Dylan",
-          "persistentUuid": "2c0825bc-6082-4fa6-87db-e6b59ee84e0b",
-          "width": 43,
-          "x": 6,
-          "y": 160,
-          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4791,6 +4776,23 @@
           "x": 208,
           "y": 160,
           "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dylan",
+          "persistentUuid": "7781e8f2-857d-46de-9a43-75fa0d3cd68f",
+          "width": 52,
+          "x": 11,
+          "y": 166,
+          "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14483,10 +14485,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -15642,6 +15644,7 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -15658,7 +15661,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5781032406270106,
+        "zoomFactor": 0.5410025207925357,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -15712,22 +15715,6 @@
           "x": 693,
           "y": 196,
           "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Dylan",
-          "persistentUuid": "5646f0c5-7585-4be8-9d82-b73e6c1d7af5",
-          "width": 0,
-          "x": -4,
-          "y": 166,
-          "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16024,8 +16011,8 @@
           "name": "pared",
           "persistentUuid": "00c7c21c-3d27-4239-800e-fdca4c5735dc",
           "width": 163,
-          "x": 2103,
-          "y": 99,
+          "x": 2147,
+          "y": 97,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -16060,6 +16047,23 @@
           "x": 8,
           "y": 11,
           "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dylan",
+          "persistentUuid": "d834147b-5d28-48ec-99c2-bacd8312ed63",
+          "width": 52,
+          "x": 0,
+          "y": 176,
+          "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
